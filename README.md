@@ -6,7 +6,7 @@ A GitHub Actions workflow1 that lets you download files into your repository jus
 .......
 ---
 
-## ⚙️ Setup
+## ⚙️ Setup1
 
 0. Fork this repo
 1. Go to your repository on GitHub
