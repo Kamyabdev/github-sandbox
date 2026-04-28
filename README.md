@@ -3,7 +3,7 @@
 # 📥 Download Files1 1via Co1mmit Message
 
 A GitHub Actions workf1low1 that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.1
-.......
+.......1
 ---1
 
 ## ⚙️ Setup1
